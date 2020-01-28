@@ -16,6 +16,8 @@ def grab_MII_words(MII_wordlist):
         all_words.append(word)
     return all_words    
 
+
+# Þetta virkar ekki almennilega!
 def word_in_allfreq(all_words):
     """Check if the words from the DoMII actually exist in the Gigaword corpus"""
     actual_words = []
@@ -27,7 +29,6 @@ def word_in_allfreq(all_words):
     for word in all_words:
         if word in freqwords:
             actual_words.append(word)
-    print("actual words: ", actual_words)
     return actual_words
 
 
@@ -37,7 +38,6 @@ def find_candidate1(actual_words):
     for word in actual_words:
         if args.candidate1 in word:
             cand1words.append(word) 
-    print("cand1words: ", cand1words)
     return cand1words
 
 
@@ -51,7 +51,6 @@ def check_candidate2(cand1words):
         newword_backwards = newword_backwards[::-1]
         word_list.append(newword)
         word_list.append(newword_backwards)
-    print("word_list: ", word_list)
     return word_list
 
 
@@ -62,13 +61,25 @@ def check_if_real_word(word_list,cand1words):
     for i in all_words:
         if i in word_list:
             real_words.append(i)
-    print("real words:", real_words)
     return real_words
 
-def check_things(real_words, cand1words):
+def check_sent(real_words):
+    words = []
+    with open("all_sent.csv", "r", encoding="utf-8") as csv_file:
+        csv_reader = csv.reader(csv_file)
+        for row in csv_reader:
+            for i in real_words:
+                if i in row:
+                    if i not in words:
+                        words.append(i)
+    return words
+
+# setja undir næsta function, annars fyðla
+
+def check_things(words, cand1words):
     """Returns a list of viable confusion sets"""
     cslist = [] # Do the words in real_words have counterparts with the other candidate?
-    for i in real_words:
+    for i in words:
         cslist.append(i)
         newword = i.replace(args.candidate2, args.candidate1,1)
         if newword in cand1words:
@@ -85,14 +96,12 @@ def check_things(real_words, cand1words):
             cs_final.append(cs_list[i])
             cs_final.append(cs_list[i+1])
         i += 1
-    print("cs final:", cs_final)
     return cs_final
 
 def write_output(cs_final):
     """Specify outputfile as a command prompt argument"""
     with open(args.outputfile, 'w', encoding='utf8') as f:
         for i in cs_final:
-            print(i)
             f.write(str(i) + '\n')
 
 parser = argparse.ArgumentParser()
@@ -106,7 +115,8 @@ actual_words = word_in_allfreq(all_words)
 cand1words = find_candidate1(actual_words)
 word_list = check_candidate2(cand1words)
 real_words = check_if_real_word(word_list, cand1words)
-cs_final = check_things(real_words, cand1words)
+words = check_sent(real_words)
+cs_final = check_things(words, cand1words)
 write_output(cs_final)
 
 print("--- %s seconds ---" % (time.clock() - start_time))
