@@ -4,8 +4,6 @@ import time
 start_time = time.clock()
 
 MII_wordlist = open("ordmyndalisti.txt", "r", encoding='utf-8')
-#MII_wordlist = open("testord.txt", "r", encoding='utf-8')
-#MII_wordlist = ["lalakúlabúbb", "breyta", "bylta", "lita", "leiti", "leyti", "byggja", "baka", "yrkja", "inni", "ynni", "breytt", "breitt", "bylt", "bilt", "byl", "bil", "byndi", "bindi", "eyri", "eiri", "eyðum", "eiðum", "geyma", "geima"]
 
 def grab_MII_words(MII_wordlist):
     """Returns a list of all words from the Database of Modern Icelandic Inflection"""
@@ -17,7 +15,6 @@ def grab_MII_words(MII_wordlist):
     return all_words    
 
 
-# Þetta virkar ekki almennilega!
 def word_in_allfreq(all_words):
     """Check if the words from the DoMII actually exist in the Gigaword corpus"""
     actual_words = []
@@ -64,6 +61,7 @@ def check_if_real_word(word_list,cand1words):
     return real_words
 
 def check_sent(real_words):
+    """Check if there are sentence examples containing these words in the IGC"""
     words = []
     with open("all_sent.csv", "r", encoding="utf-8") as csv_file:
         csv_reader = csv.reader(csv_file)
@@ -73,8 +71,6 @@ def check_sent(real_words):
                     if i not in words:
                         words.append(i)
     return words
-
-# setja undir næsta function, annars fyðla
 
 def check_things(words, cand1words):
     """Returns a list of viable confusion sets"""
