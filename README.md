@@ -44,8 +44,12 @@ Wordlist = A txt file containing a list of confusion set candidates.
 Outputfile = A txt file.
 
 ###### **References:**
-Gunnlaugsson, G. M. (1994). _Um afkringingu á y, ý, ey í íslensku._ Málvísindastofnun Háskóla Íslands.
-Jónsson, J. G. and Eythórsson, T. (2005).  Variation in subject case marking in Insular Scandinavian. _Nordic Journal of Linguistics_, 28.2:223–245.
-Ingason,  A. K. (2010). Productivity  of  non-default  case. _Working papers in Scandinavian syntax_, 85:65–117.
-Nowenstein, I. (2017). Determining the nature of intra-speaker subject case variation. In Thráinsson, Höskuldur, C. H. H. P. P. and Hansen, Z. S., editors, _Syntactic Variation in Insular Scandinavian_, pages 91–112. 
-Thráinsson, H. (2013). Ideal speakers and other speakers. The case of dative and other cases. In Fenández,  B.and  Etxepare,  R.,  editors, _Variation  in  Datives  –  A Micro-Comparative Perspective_, pages 161–188. Oxford University Press.
+• Gunnlaugsson, G. M. (1994). _Um afkringingu á y, ý, ey í íslensku._ Málvísindastofnun Háskóla Íslands.
+
+•Jónsson, J. G. and Eythórsson, T. (2005).  Variation in subject case marking in Insular Scandinavian. _Nordic Journal of Linguistics_, 28.2:223–245.
+
+•Ingason,  A. K. (2010). Productivity  of  non-default  case. _Working papers in Scandinavian syntax_, 85:65–117.
+
+•Nowenstein, I. (2017). Determining the nature of intra-speaker subject case variation. In Thráinsson, Höskuldur, C. H. H. P. P. and Hansen, Z. S., editors, _Syntactic Variation in Insular Scandinavian_, pages 91–112. 
+
+• Thráinsson, H. (2013). Ideal speakers and other speakers. The case of dative and other cases. In Fenández,  B.and  Etxepare,  R.,  editors, _Variation  in  Datives  –  A Micro-Comparative Perspective_, pages 161–188. Oxford University Press.
