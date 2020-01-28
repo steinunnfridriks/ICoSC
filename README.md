@@ -3,6 +3,7 @@
 
 **The Icelandic Confusion Set Corpus (ICoSC) is available under a CC-BY licence for anyone wanting to run their own experiment or replicate ours. It was compiled during the course of three months in 2019 by Steinunn Rut Friðriksdóttir and Anton Karl Ingason of the language technology department in the University of Iceland.**
 
+## **Content:**
 The ICoSC consists of three categories of confusion sets, selected for their linguistic properties as homophones, separated orthographically by a single letter. The categories are:
 
 •**196  pairs  containing  y/i (leyti _’extent’_ / leiti _’search’_)**:  
@@ -19,7 +20,7 @@ These confusion sets could prove useful in grammar correction as their differenc
 
 Included in the ICoSC are spreadsheets containing all collected confusion sets of each category and their frequencies. The spreadsheets are organized so that for each set, the total frequency of each candidate is calculated  along  with the frequency of each possible PoS tag for that candidate. The seventh and eight column of the tables contain binary values referring to whether the confusion set is grammatically disjoint (all PoS tags differ for the two candidates) or grammatically identical (all PoS tags are identical for the two candidates). The final column shows the frequency of the less frequent candidate of the set which can be used to determine which sets are viable in an experiment. Also included are text files containing the list of words from each category (as well as three categories not used in this experimentdue to data sparsity) and text files containing all sentence examples from the IGC including the words for each category. As the n/nn examples are by far the most frequent confusion sets, the corpus also includes a word list and sentence examples for the 55 most frequent sets. All files have UTF-8 encoding.
 
-**CODE:**
+## **CODE:**
 
 •**gen_totalfreqs_totalsents.py** generates a TSV file (allfreq.tsv) containing the word form, lemma, POS tag and frequency of each word in the Icelandic Gigaword Corpus, as well as a CSV file (all_sent.csv) containing all sentences from the IGC as lists. It is dependent on the IGC. 
 
