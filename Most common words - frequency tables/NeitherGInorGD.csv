@@ -1,0 +1,31 @@
+﻿Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical,Min freq
+kominn,2182,"['sþgken', 2172, 'lkensf', 7, 'x', 1, 'lkeosf', 1, 'sþgkeo', 1]",komin,1633,"['sþgven', 1299, 'sþghfn', 329, 'lvensf', 4, 'x', 1]",FALSE,FALSE,1633
+orðinn,1214,"['sþgken', 1196, 'lkensf', 8, 'lkeosf', 7, 'x', 3]",orðin,1503,"['sþgven', 955, 'sþghfn', 185, 'nhfng', 175, 'nhfog', 174, 'lvensf', 5, 'x', 4, 'lhfnsf', 4, 'lhfosf', 1]",FALSE,FALSE,1214
+vil,817,"['sfg1en', 744, 'x', 46, 'nhen', 15, 'nheo', 11, 'nkens', 1]",vill,1488,"['sfg3en', 1471, 'x', 10, 'lkensf', 3, 'lvensf', 3, 'lhfnsf', 1]",FALSE,FALSE,817
+farinn,885,"['sþgken', 829, 'lkensf', 51, 'lkeosf', 5]",farin,787,"['sþgven', 698, 'sþghfn', 83, 'lvensf', 2, 'lhfnsf', 2, 'lkensf', 1, 'x', 1]",FALSE,FALSE,787
+skyldi,1335,"['svg3eþ', 1170, 'svg1eþ', 144, 'lkenvf', 16, 'svg3fn', 3, 'sfg3eþ', 1, 'nkeo', 1]",skildi,775,"['sfg3eþ', 518, 'sfg1eþ', 203, 'svg3eþ', 32, 'nhen', 7, 'nkeþ', 5, 'sfg2eþ', 3, 'svg1eþ', 3, 'nheþ', 3, 'nheo', 1]",FALSE,FALSE,775
+býður,193,"['sfg3en', 184, 'sfg2en', 8, 'sfg1fn', 1]",bíður,266,"['sfg3en', 260, 'sfg2en', 6]",FALSE,FALSE,193
+vinna,1477,"['sng', 1290, 'nven', 97, 'sfg3fn', 86, 'nkees', 3, 'nkeþs', 1]",vina,178,"['nkfe', 127, 'nven', 45, 'sng', 2, 'nvfe', 2, 'sfg3fn', 1, 'nkfo', 1]",FALSE,FALSE,178
+skyldu,313,"['svg3fþ', 173, 'nveo', 103, 'nveþ', 19, 'lhfnvf', 7, 'nvee', 5, 'lheþsf', 2, 'lkfnvf', 2, 'sngþ', 2]",skildu,149,"['sfg3fþ', 138, 'svg3fþ', 6, 'sbg2en', 3, 'lheþsf', 1, 'lhfovf', 1]",FALSE,FALSE,149
+verðið,145,"['sfg2fn', 71, 'nheng', 46, 'nheog', 26, 'sbg2fn', 1, 'svg2fn', 1]",veðrið,264,"['nheng', 209, 'nheog', 55]",FALSE,FALSE,145
+lýkur,144,"['sfg3en', 142, 'sfg2en', 1, 'sfg2fn', 1]",líkur,195,"['nvfn', 97, 'lkensf', 57, 'nvfo', 33, 'sfg3en', 8]",FALSE,FALSE,144
+verði,1374,"['svg3en', 1007, 'nheþ', 147, 'svg3fn', 142, 'svg1en', 64, 'nkeþs', 5, 'nkfo', 4, 'nkeþ', 3, 'sfg1eþ', 2]",veðri,126,"['nheþ', 122, 'nkeþ', 2, 'nken', 2]",FALSE,FALSE,126
+munn,114,"['nkeo', 109, 'nhens', 2, 'nvfos', 1, 'nveþs', 1, 'nheþs', 1]",mun,1720,"['sfg3en', 842, 'nkeþ', 591, 'sfg1en', 206, 'nkeo', 81]",FALSE,FALSE,114
+breytt,267,"['sþghen', 147, 'ssg', 105, 'lheosf', 6, 'lvensf', 3, 'lhfnsf', 2, 'aa', 2, 'lhensf', 2]",breitt,113,"['aa', 42, 'lhensf', 26, 'sþghen', 22, 'ssg', 11, 'lheosf', 8, 'sþgheo', 4]",FALSE,FALSE,113
+eytt,99,"['ssg', 82, 'sþghen', 15, 'lhensf', 2]",eitt,3145,"['tfheo', 1050, 'foheo', 683, 'tfhen', 569, 'fohen', 513, 'lhensf', 158, 'lheosf', 84, 'ta', 66, 'to', 12, 'x', 3, 'lhensf', 2, 'lhensf', 2, 'lheosf', 1, 'as', 1, 'lheosf', 1]",FALSE,FALSE,99
+kynni,419,"['svg3eþ', 203, 'nhfo', 122, 'nhfn', 37, 'sfg1en', 17, 'svg1eþ', 10, 'nhen', 8, 'nkeþ', 6, 'svg1en', 6, 'nheo', 5, 'svg3fn', 2, 'nkeo', 1, 'nheþ', 1, 'svg3en', 1]",kyni,87,"['nheþ', 87]",FALSE,FALSE,87
+týna,64,"['sng', 62, 'sfg3fn', 2]",tína,87,"['sng', 81, 'nven', 5, 'sfg3fn', 1]",FALSE,FALSE,64
+lyst,60,"['nveo', 31, 'nveþ', 21, 'ssg', 6, 'nven', 1, 'lhensf', 1]",list,134,"['nveo', 54, 'nveþ', 47, 'nven', 31, 'e', 2]",FALSE,FALSE,60
+steinn,57,"['nken', 46, 'nkens', 11]",stein,135,"['nkeo', 109, 'nkeos', 24, 'nhfos', 1, 'nkens', 1]",FALSE,FALSE,57
+banna,58,"['sng', 45, 'sfg1en', 7, 'sfg3fn', 4, 'nhfe', 2]",bana,55,"['nkeo', 20, 'nkee', 15, 'sng', 11, 'nkeþ', 8, 'sfg3fn', 1]",FALSE,FALSE,55
+lýtur,50,"['sfg3en', 50]",lítur,763,"['sfg3en', 726, 'sfg2en', 35, 'sfg1fn', 1, 'sfg1en', 1]",FALSE,FALSE,50
+skýra,185,"['sng', 164, 'lveosf', 18, 'sfg3fn', 2, 'lvenvf', 1]",skíra,49,"['sng', 47, 'sfg3fn', 1, 'lhenvf', 1]",FALSE,FALSE,49
+leyti,1105,"['nheþ', 866, 'nheo', 239]",leiti,44,"['nheþ', 33, 'svg3fn', 4, 'nheþs', 2, 'svg3en', 2, 'nhfn', 2, 'svg1en', 1]",FALSE,FALSE,44
+seyði,69,"['nkeþ', 68, 'nheþ', 1]",seiði,42,"['nhfo', 21, 'nheþ', 7, 'nhfn', 6, 'nkfo', 5, 'nheo', 2, 'nhen', 1]",FALSE,FALSE,42
+hvatt,42,"['ssg', 33, 'sþghen', 8, 'lheosf', 1]",kvatt,55,"['ssg', 45, 'sþghen', 10]",FALSE,FALSE,42
+býð,37,"['sfg1en', 36, 'x', 1]",bíð,56,"['sfg1en', 56]",FALSE,FALSE,37
+neyta,36,"['sng', 28, 'sfg3fn', 8]",neita,126,"['sng', 81, 'sfg1en', 26, 'sfg3fn', 19]",FALSE,FALSE,36
+týndi,34,"['sfg3eþ', 23, 'lkenvf', 5, 'sfg1eþ', 5, 'svg3eþ', 1]",tíndi,57,"['sfg3eþ', 47, 'sfg1eþ', 9, 'svg3eþ', 1]",FALSE,FALSE,34
+mynni,33,"['nheþ', 23, 'nhfo', 8, 'nhen', 1, 'nhfn', 1]",minni,1329,"['feveþ', 780, 'nheþ', 131, 'lvenvm', 127, 'lhfnvm', 35, 'lveovm', 31, 'lkenvm', 29, 'lkfþvm', 22, 'lvfovm', 20, 'nheo', 20, 'sfg1en', 15, 'lvfnvm', 14, 'lhfovm', 14, 'nhen', 13, 'svg3en', 13, 'lkeevm', 10, 'lkeovm', 10, 'lkeþvm', 7, 'lkfovm', 7, 'nhfo', 6, 'lveþvm', 6, 'lhfþvm', 5, 'lkfnvm', 4, 'nhfn', 3, 'svg3fn', 3, 'lkfevm', 2, 'lveevm', 1, 'lhfevm', 1]",FALSE,FALSE,33
+skyni,127,"['nheþ', 127]",skini,33,"['nheþ', 23, 'svg3en', 7, 'svg3eþ', 2, 'svg3fn', 1]",FALSE,FALSE,33
+virða,152,"['sng', 143, 'sfg3fn', 9]",viðra,32,"['sng', 32]",FALSE,FALSE,32
