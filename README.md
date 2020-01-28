@@ -43,7 +43,7 @@ Outputfile = A CSV file.
 Wordlist = A txt file containing a list of confusion set candidates.
 Outputfile = A txt file.
 
-###### **References:**
+## **References:**
 • Gunnlaugsson, G. M. (1994). _Um afkringingu á y, ý, ey í íslensku._ Málvísindastofnun Háskóla Íslands.
 
 •Jónsson, J. G. and Eythórsson, T. (2005).  Variation in subject case marking in Insular Scandinavian. _Nordic Journal of Linguistics_, 28.2:223–245.
