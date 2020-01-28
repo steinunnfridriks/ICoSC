@@ -1,7 +1,5 @@
 import argparse 
 import csv
-import time
-start_time = time.clock()
 
 MII_wordlist = open("ordmyndalisti.txt", "r", encoding='utf-8')
 
@@ -114,5 +112,3 @@ real_words = check_if_real_word(word_list, cand1words)
 words = check_sent(real_words)
 cs_final = check_things(words, cand1words)
 write_output(cs_final)
-
-print("--- %s seconds ---" % (time.clock() - start_time))
