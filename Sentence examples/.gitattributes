@@ -1,0 +1,9 @@
+ylong_sent.txt filter=lfs diff=lfs merge=lfs -text
+hvkv_sent.txt filter=lfs diff=lfs merge=lfs -text
+nn_mostfreq_sent.txt filter=lfs diff=lfs merge=lfs -text
+nn_sent.txt filter=lfs diff=lfs merge=lfs -text
+rddr_sent.txt filter=lfs diff=lfs merge=lfs -text
+rr_sent.txt filter=lfs diff=lfs merge=lfs -text
+various_sent.txt filter=lfs diff=lfs merge=lfs -text
+y_sent.txt filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text

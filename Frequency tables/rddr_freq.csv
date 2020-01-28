@@ -1,0 +1,43 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical,Min freq
+arða,4,"['nven', 3, 'sng', 1]",aðra,1267,"['foveo', 684, 'fokfo', 561, 'lveosf', 21, 'lveovf', 1]",TRUE,FALSE,4
+ferða,38,"['nvfe', 35, 'nhfe', 3]",feðra,18,"['nkfe', 16, 'sng', 2]",TRUE,FALSE,18
+ferðanna,1,"['nvfeg', 1]",feðranna,10,"['nkfeg', 10]",TRUE,FALSE,1
+ferðum,121,"['nvfþ', 121]",feðrum,7,"['nkfþ', 7]",TRUE,FALSE,7
+firði,47,"['nkeþ', 30, 'nkfo', 15, 'nkeþs', 2]",fiðri,5,"['nheþ', 5]",TRUE,FALSE,5
+fjarðar,1,"['nkee', 1]",fjaðrar,2,"['sfg3en', 2]",TRUE,FALSE,1
+fjörðum,38,"['nkfþ', 34, 'nkfþs', 4]",fjöðrum,6,"['nvfþ', 6]",TRUE,FALSE,6
+fjörðunum,11,"['nkfþg', 11]",fjöðrunum,2,"['nvfþg', 2]",TRUE,FALSE,2
+furða,93,"['nven', 61, 'sng', 28, 'sfg3fn', 2, 'sfg1en', 1, 'nvfe', 1]",fuðra,12,"['sng', 11, 'nven', 1]",FALSE,FALSE,12
+furðað,10,"['ssg', 10]",fuðrað,2,"['ssg', 2]",FALSE,TRUE,2
+furðaði,31,"['sfg3eþ', 24, 'sfg1eþ', 7]",fuðraði,7,"['sfg3eþ', 4, 'sfg1eþ', 3]",FALSE,TRUE,7
+furðar,13,"['sfg3en', 13]",fuðrar,5,"['sfg3en', 5]",FALSE,TRUE,5
+furðuðu,7,"['sfg3fþ', 7]",fuðruðu,1,"['sfg3fþ', 1]",FALSE,TRUE,1
+jarða,27,"['sng', 19, 'nvfe', 8]",jaðra,24,"['nkfo', 16, 'sng', 7, 'nkfe', 1]",FALSE,FALSE,24
+jarðað,4,"['lhensf', 3, 'ssg', 1]",jaðrað,1,"['ssg', 1]",FALSE,FALSE,1
+jarðaði,1,"['sfg3eþ', 1]",jaðraði,17,"['sfg3eþ', 8, 'svg3eþ', 7, 'sfg1eþ', 2]",FALSE,FALSE,1
+jarðaður,4,"['sþgken', 3, 'lkensf', 1]",jaðraður,1,"['lkensf', 1]",FALSE,FALSE,1
+jarðanna,1,"['nvfeg', 1]",jaðranna,5,"['nkfeg', 5]",TRUE,FALSE,1
+jarðar,311,"['nvee', 303, 'sfg3en', 7, 'nvees', 1]",jaðrar,12,"['sfg3en', 10, 'nkfn', 2]",FALSE,FALSE,12
+jörðuð,5,"['sþgven', 4, 'lhfnsf', 1]",jöðruð,4,"['lvensf', 3, 'lhfnsf', 1]",FALSE,FALSE,4
+jörðuðum,2,"['sfg1fþ', 2]",jöðruðum,1,"['sfg1fþ', 1]",FALSE,TRUE,1
+jörðum,14,"['nvfþ', 14]",jöðrum,17,"['nkfþ', 17]",TRUE,FALSE,14
+jörðunum,1,"['nvfþg', 1]",jöðrunum,11,"['nkfþg', 11]",TRUE,FALSE,1
+mörðum,2,"['nkfþ', 1, 'lkeþsf', 1]",möðrum,1,"['nvfþ', 1]",TRUE,FALSE,1
+nirði,4,"['nkeþs', 4]",niðri,730,"['aa', 725, 'svg3fn', 3, 'svg3en', 2]",TRUE,FALSE,4
+samferða,102,"['lhfnof', 79, 'lvenof', 15, 'lveosf', 3, 'nvfe', 2, 'lkeþvf', 2, 'lheþvf', 1]",samfeðra,1,"['lhfesf', 1]",TRUE,FALSE,1
+snurða,9,"['nven', 4, 'sng', 4, 'nvfe', 1]",snuðra,26,"['sng', 25, 'sfg1en', 1]",FALSE,FALSE,9
+starði,338,"['sfg3eþ', 290, 'sfg1eþ', 47, 'svg3eþ', 1]",staðri,1,"['lveþsf', 1]",TRUE,FALSE,1
+stærði,3,"['sfg3eþ', 3]",stæðri,1,"['lveþsf', 1]",TRUE,FALSE,1
+verða,3188,"['sng', 1884, 'sfg3fn', 1299, 'lkfosf', 2, 'lhenvf', 2, 'lvenvf', 1]",veðra,7,"['nhfe', 5, 'nkfe', 2]",TRUE,FALSE,7
+verðast,1,"['lhense', 1]",veðrast,11,"['sfm3fn', 5, 'snm', 4, 'sfm3en', 2]",TRUE,FALSE,1
+verði,1374,"['svg3en', 1007, 'nheþ', 147, 'svg3fn', 142, 'svg1en', 64, 'nkeþs', 5, 'nkfo', 4, 'nkeþ', 3, 'sfg1eþ', 2]",veðri,126,"['nheþ', 122, 'nkeþ', 2, 'nken', 2]",FALSE,FALSE,126
+verðið,145,"['sfg2fn', 71, 'nheng', 46, 'nheog', 26, 'sbg2fn', 1, 'svg2fn', 1]",veðrið,264,"['nheng', 209, 'nheog', 55]",FALSE,FALSE,145
+verðinu,6,"['nheþg', 6]",veðrinu,36,"['nheþg', 36]",FALSE,TRUE,6
+verðum,425,"['sfg1fn', 413, 'svg1fn', 9, 'lkeþsf', 2, 'lvfþsf', 1]",veðrum,25,"['nhfþ', 16, 'nvfþ', 7, 'nkfþ', 2]",TRUE,FALSE,25
+virða,152,"['sng', 143, 'sfg3fn', 9]",viðra,32,"['sng', 32]",FALSE,FALSE,32
+virðar,1,"['nvee', 1]",viðrar,20,"['sfg3en', 20]",TRUE,FALSE,1
+virði,250,"['nhen', 204, 'sfg1en', 29, 'nheo', 5, 'nhfn', 4, 'svg3fn', 3, 'svg1en', 2, 'svg3en', 2, 'nheþ', 1]",viðri,1,"['nkeþ', 1]",TRUE,FALSE,1
+yrðum,86,"['svg1fþ', 71, 'sfg1fn', 15]",yðrum,1,"['sfg1fn', 1]",FALSE,FALSE,1
+ærði,1,"['sfg3eþ', 1]",æðri,85,"['lkenvm', 15, 'lhfovm', 9, 'lkeovm', 9, 'lveþvm', 8, 'lhfnvm', 8, 'lhfevm', 6, 'lkeþvm', 6, 'lkfþvm', 5, 'lveevm', 4, 'lhfþvm', 3, 'lvfnvm', 3, 'lvenvm', 3, 'lvfþvm', 3, 'lkfnvm', 1, 'lveovm', 1, 'lkfevm', 1]",TRUE,FALSE,1
+örðu,7,"['nveþ', 4, 'nveo', 3]",öðru,1943,"['foheþ', 1859, 'lheþsf', 77, 'x', 7]",TRUE,FALSE,7
+örðum,2,"['nvfþ', 2]",öðrum,2365,"['fokfþ', 880, 'fokeþ', 779, 'fohfþ', 440, 'fovfþ', 253, 'lkeþsf', 12, 'nhfþ', 1]",TRUE,FALSE,2
