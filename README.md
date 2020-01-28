@@ -47,6 +47,13 @@ Outputfile = A CSV file.
 Wordlist = A txt file containing a list of confusion set candidates.
 Outputfile = A txt file.
 
+•**decisiontree_classifier** is dependent on the txt file containing all sentence examples for the chosen category (for example y_sent.txt). Takes a word pair (for example _leyti/leiti_) and looks for the sentence examples containing each candidate. Creates a feature vector for each example and generates a data matrix from all examples, which is then split into test and train data. Runs the data through the Decision tree algorithm provided by Scikit learn and outputs cross validation results for the chosen confusion set, as well as a Graphviz visualization of the tree and a bar chart containing the feature importance.
+
+**Required argparse arguments:**
+Filename = A txt file containing all sentence examples from the chosen category. 
+Target word 1 = The first candidate of the confusion set in question.
+Target word 2 = The second candidate of the confusion set in question. 
+
 
 
 ## **References:**
