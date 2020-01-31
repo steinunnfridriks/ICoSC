@@ -1,8 +1,6 @@
 # ICoSC
-# UNDER CONSTRUCTION. 
 
 **The Icelandic Confusion Set Corpus (ICoSC) is available under a CC-BY licence for anyone wanting to run their own experiment or replicate ours. It was compiled during the course of three months in 2019 by Steinunn Rut Friðriksdóttir and Anton Karl Ingason of the language technology department in the University of Iceland.**
-
 
 
 ## **Content:**
