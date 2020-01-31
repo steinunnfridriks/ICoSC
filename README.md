@@ -6,7 +6,7 @@
 
 
 ## **Content:**
-The ICoSC consists of three categories of confusion sets, selected for their linguistic properties as homophones, separated orthographically by a single letter. The categories are:
+The ICoSC consists of the following categories of confusion sets, selected for their linguistic properties as homophones, separated orthographically by a single letter. The categories are:
 
 •**196  pairs  containing  y/i (leyti _’extent’_ / leiti _’search’_)**:  
 In modern Icelandic,  there is no phonetic  distinction between  these sounds (both of which are pronounced as [ɪ]) and thus their distinction is purely historical. The use of y refers to a vowel mutation from another, related word, some of which are derived from Danish. Confusing words that differ only by these letters is therefore very common when writing Icelandic.
@@ -19,6 +19,15 @@ The alveolar nasal [n] is not elongated in pronunciation and therefore there is 
 
 •**8 pairs commonly confused by Icelandic speakers**:  
 These confusion sets could prove useful in grammar correction as their difference is in their morphological information rather than their orthography. These include for example _mig/mér_ (_me_ (accusative) / _me_ (dative)) which commonly get confused when followed by experiencer-subject verbs (Jónsson  and  Eythórsson, 2005; Ingason, 2010; Thráinsson, 2013; Nowenstein, 2017). 
+
+•**24 pairs containing hv/kv (hvað ’what’ / kvað ’chanted’)**:
+Hv and kv are homophones for the majority of Icelandic speakers.
+
+•**42 pairs containing rð/ðr (veðri ’weather (dative)’ / verði ’become’)**:
+Included due to their potential confusability, though they are not homophones. 
+
+•**110 pairs containing rr/r (klárri ’smart (indef. fem. dative)’ / klári ’smart (def. masc. nominative)’)**:
+Included due to their potential confusability, as the pronunciation difference is only in the preceding vowel. 
 
 Included in the ICoSC are spreadsheets containing all collected confusion sets of each category and their frequencies. The spreadsheets are organized so that for each set, the total frequency of each candidate is calculated  along  with the frequency of each possible PoS tag for that candidate. The seventh and eight column of the tables contain binary values referring to whether the confusion set is grammatically disjoint (all PoS tags differ for the two candidates) or grammatically identical (all PoS tags are identical for the two candidates). The final column shows the frequency of the less frequent candidate of the set which can be used to determine which sets are viable in an experiment. Also included are text files containing the list of words from each category (as well as three categories not used in this experimentdue to data sparsity) and text files containing all sentence examples from the IGC including the words for each category. As the n/nn examples are by far the most frequent confusion sets, the corpus also includes a word list and sentence examples for the 55 most frequent sets. All files have UTF-8 encoding.
 
