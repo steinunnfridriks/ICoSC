@@ -20,13 +20,13 @@ The alveolar nasal [n] is not elongated in pronunciation and therefore there is 
 •**8 pairs commonly confused by Icelandic speakers**:  
 These confusion sets could prove useful in grammar correction as their difference is in their morphological information rather than their orthography. These include for example _mig/mér_ (_me_ (accusative) / _me_ (dative)) which commonly get confused when followed by experiencer-subject verbs (Jónsson  and  Eythórsson, 2005; Ingason, 2010; Thráinsson, 2013; Nowenstein, 2017). 
 
-•**24 pairs containing hv/kv (hvað ’what’ / kvað ’chanted’)**:
+•**24 pairs containing hv/kv (hvað _’what’_ / kvað _’chanted’_)**:
 Hv and kv are homophones for the majority of Icelandic speakers.
 
-•**42 pairs containing rð/ðr (veðri ’weather (dative)’ / verði ’become’)**:
+•**42 pairs containing rð/ðr (veðri _’weather (dative)’_ / verði _’will become’_)**:
 Included due to their potential confusability, though they are not homophones. 
 
-•**110 pairs containing rr/r (klárri ’smart (indef. fem. dative)’ / klári ’smart (def. masc. nominative)’)**:
+•**110 pairs containing rr/r (klárri _’smart (indef. fem. dative)’_ / klári _’smart (def. masc. nominative)’_)**:
 Included due to their potential confusability, as the pronunciation difference is only in the preceding vowel. 
 
 Included in the ICoSC are spreadsheets containing all collected confusion sets of each category and their frequencies. The spreadsheets are organized so that for each set, the total frequency of each candidate is calculated  along  with the frequency of each possible PoS tag for that candidate. The seventh and eight column of the tables contain binary values referring to whether the confusion set is grammatically disjoint (all PoS tags differ for the two candidates) or grammatically identical (all PoS tags are identical for the two candidates). The final column shows the frequency of the less frequent candidate of the set which can be used to determine which sets are viable in an experiment. Also included are text files containing the list of words from each category (as well as three categories not used in this experimentdue to data sparsity) and text files containing all sentence examples from the IGC including the words for each category. As the n/nn examples are by far the most frequent confusion sets, the corpus also includes a word list and sentence examples for the 55 most frequent sets. All files have UTF-8 encoding.
