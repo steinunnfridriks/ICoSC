@@ -1,0 +1,26 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+kaffi,581,"['nheo', 407, 'nhen', 101, 'nheþ', 69, 'nheþs', 2, 'nhens', 1, 'nhees', 1]",kafi,87,"['nheþ', 87]",False,False
+koffort,11,"['nhfo', 4, 'nhen', 3, 'nheo', 3, 'nhfn', 1]",kofort,2,"['nhen', 1, 'nhfo', 1]",False,False
+kaffið,153,"['nheog', 120, 'nheng', 33]",kafið,1,"['lhensf', 1]",True,False
+koffortin,1,"['nhfng', 1]",kofortin,2,"['nhfng', 1, 'nhfog', 1]",False,False
+koffortið,7,"['nheog', 6, 'nheng', 1]",kofortið,4,"['nheng', 2, 'nheog', 2]",False,True
+kaffinu,64,"['nheþg', 64]",kafinu,5,"['nheþg', 5]",False,True
+skúffur,9,"['nvfo', 9]",skúfur,1,"['nken', 1]",True,False
+skaffa,12,"['sng', 11, 'sfg3fn', 1]",skafa,11,"['sng', 10, 'sfg3fn', 1]",False,True
+töff,53,"['lhenof', 29, 'lkenof', 10, 'lvensf', 5, 'lvenof', 4, 'lkfeof', 2, 'lhfnof', 1, 'lvfþof', 1, 'lheþsf', 1]",töf,10,"['nven', 6, 'nveþ', 3, 'nveo', 1]",True,False
+sóffi,1,"['nken', 1]",sófi,9,"['nken', 9]",False,True
+sóffa,4,"['nkeo', 3, 'nkeþ', 1]",sófa,54,"['nkeþ', 36, 'nkeo', 16, 'nkfo', 2]",False,False
+vöfflur,1,"['nvfo', 1]",vöflur,17,"['nvfn', 10, 'nvfo', 7]",False,False
+gaffli,9,"['nkeþ', 9]",gafli,7,"['nkeþ', 7]",False,True
+göfflum,6,"['nkfþ', 6]",göflum,7,"['nkfþ', 7]",False,True
+gafflinum,10,"['nkeþg', 10]",gaflinum,6,"['nkeþg', 6]",False,True
+töfflum,4,"['nvfþ', 4]",töflum,6,"['nvfþ', 6]",False,True
+gafflar,2,"['nkfn', 2]",gaflar,1,"['nkfn', 1]",False,True
+eff,2,"['nhfn', 1, 'nhfo', 1]",ef,8640,"['c', 8591, 'sfg1en', 19, 'nkeo', 10, 'nkeþ', 7, 'nhfn', 6, 'nheo', 3, 'nhen', 2, 'e', 1, 'nhfo', 1]",False,False
+gaffla,2,"['nkfo', 2]",gafla,2,"['nkfe', 2]",True,False
+gafflana,1,"['nkfog', 1]",gaflana,4,"['nkfog', 4]",False,True
+töfflunum,1,"['nvfþg', 1]",töflunum,3,"['nvfþg', 2, 'nhfþg', 1]",False,False
+sóffanum,2,"['nkeþg', 2]",sófanum,135,"['nkeþg', 135]",False,True
+effi,1,"['nheþ', 1]",efi,8,"['nken', 7, 'nheþ', 1]",False,False
+sóffann,1,"['nkeog', 1]",sófann,83,"['nkeog', 83]",False,True
+sóffinn,1,"['nkeng', 1]",sófinn,7,"['nkeng', 7]",False,True

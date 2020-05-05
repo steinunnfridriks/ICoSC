@@ -1,0 +1,116 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+reiddi,24,"['sfg3eþ', 23, 'svg3eþ', 1]",reitti,3,"['sfg3eþ', 3]",False,False
+studdi,93,"['sfg3eþ', 80, 'sfg1eþ', 12, 'lkenvf', 1]",stutti,8,"['lkenvf', 8]",False,False
+meðfædd,8,"['lvensf', 8]",meðfætt,5,"['lhensf', 5]",True,False
+þræddi,32,"['sfg3eþ', 29, 'sfg1eþ', 2, 'svg3eþ', 1]",þrætti,9,"['sfg3eþ', 7, 'sfg1eþ', 2]",False,False
+fædd,58,"['sþgven', 52, 'lhfnsf', 5, 'lvensf', 1]",fætt,23,"['ssg', 12, 'sþghen', 9, 'lheosf', 2]",True,False
+rökrædd,1,"['lhfnsf', 1]",rökrætt,1,"['sþghen', 1]",True,False
+greidd,38,"['sþgven', 18, 'sþghfn', 17, 'lvensf', 2, 'sþghfo', 1]",greitt,148,"['ssg', 53, 'aa', 46, 'sþghen', 41, 'sþgheo', 4, 'lhensf', 2, 'lheosf', 2]",True,False
+veiddi,24,"['sfg3eþ', 20, 'sfg1eþ', 4]",veitti,256,"['sfg3eþ', 241, 'sfg1eþ', 11, 'svg3eþ', 3, 'lkenvf', 1]",False,False
+veiddur,5,"['lkensf', 5]",veittur,21,"['sþgken', 21]",True,False
+hrædd,291,"['lvensf', 272, 'lhfnsf', 18, 'lhfosf', 1]",hrætt,25,"['lhensf', 18, 'ssg', 6, 'lheosf', 1]",True,False
+rædd,20,"['sþghfn', 14, 'sþgven', 5, 'lvensf', 1]",rætt,254,"['sþghen', 147, 'ssg', 107]",True,False
+prýdd,9,"['lvensf', 6, 'lhfnsf', 3]",prýtt,6,"['ssg', 5, 'lhensf', 1]",True,False
+styddi,3,"['svg3eþ', 3]",stytti,35,"['sfg3eþ', 30, 'sfg1eþ', 4, 'svg3eþ', 1]",False,False
+mæddur,5,"['lkensf', 5]",mættur,82,"['sþgken', 81, 'lkensf', 1]",False,False
+studdum,5,"['sfg1fþ', 5]",stuttum,87,"['lkeþsf', 47, 'lkfþsf', 19, 'lvfþsf', 12, 'lhfþsf', 9]",True,False
+leidd,25,"['sþgven', 14, 'sþghfn', 9, 'lhfnsf', 2]",leitt,297,"['ssg', 207, 'lhensf', 55, 'sþghen', 28, 'lheosf', 7]",True,False
+æddu,19,"['sfg3fþ', 18, 'svg3fþ', 1]",ættu,365,"['svg3fþ', 361, 'sfg3fþ', 4]",False,True
+bíddu,253,"['sbg2en', 248, 'au', 4, 'sfg3fþ', 1]",bíttu,2,"['sbg2en', 2]",False,False
+brædd,2,"['lhfnsf', 1, 'lvensf', 1]",brætt,12,"['ssg', 7, 'lheosf', 2, 'lhensf', 2, 'sþghen', 1]",True,False
+klædd,94,"['lvensf', 89, 'lhfnsf', 5]",klætt,43,"['ssg', 19, 'lhensf', 15, 'sþghen', 8, 'lheosf', 1]",True,False
+veiddist,3,"['sfm3eþ', 3]",veittist,21,"['sfm3eþ', 21]",False,True
+mæddi,9,"['sfg3eþ', 9]",mætti,1030,"['svg3eþ', 796, 'svg1eþ', 60, 'sfg1eþ', 60, 'sfg3eþ', 59, 'nkeþ', 53, 'lkenvf', 1, 'nkfo', 1]",False,False
+útbreidd,13,"['lvensf', 8, 'lhfnsf', 5]",útbreitt,6,"['lhensf', 3, 'sþghen', 3]",True,False
+veiddu,8,"['sfg3fþ', 8]",veittu,66,"['sfg3fþ', 66]",False,True
+studdu,17,"['sfg3fþ', 16, 'lvfþvf', 1]",stuttu,318,"['lheþsf', 298, 'lveovf', 6, 'lveþvf', 6, 'lvfþvf', 4, 'lvfovf', 2, 'lveevf', 1, 'lhfovf', 1]",False,False
+oddi,39,"['nkeþ', 15, 'nkeþs', 11, 'nkens', 8, 'nken', 5]",otti,36,"['nkens', 36]",False,False
+neyddi,19,"['sfg3eþ', 19]",neytti,18,"['sfg3eþ', 10, 'sfg1eþ', 8]",False,False
+biddu,24,"['sbg2en', 24]",bittu,1,"['sbg2en', 1]",False,True
+skíthrædd,8,"['lvensf', 7, 'lhfnsf', 1]",skíthrætt,2,"['lheosf', 1, 'lhensf', 1]",True,False
+vídd,29,"['nveo', 12, 'nveþ', 11, 'nven', 6]",vítt,38,"['aa', 32, 'lhensf', 3, 'lheosf', 2, 'ssg', 1]",True,False
+breidd,38,"['nveo', 24, 'nven', 8, 'nveþ', 3, 'lvensf', 2, 'lhfnsf', 1]",breitt,113,"['aa', 42, 'lhensf', 26, 'sþghen', 22, 'ssg', 11, 'lheosf', 8, 'sþgheo', 4]",True,False
+gædd,11,"['sþgven', 6, 'lvensf', 4, 'lhfnsf', 1]",gætt,101,"['sþghen', 66, 'ssg', 33, 'nveþ', 1, 'nveo', 1]",True,False
+mædd,9,"['lvensf', 8, 'lhfnsf', 1]",mætt,115,"['ssg', 54, 'sþghen', 30, 'sþgven', 20, 'lhfnsf', 9, 'lvensf', 1, 'lhensf', 1]",False,False
+vædd,1,"['lhfnsf', 1]",vætt,4,"['lhensf', 2, 'nkeo', 1, 'ssg', 1]",True,False
+veiddum,4,"['sfg1fþ', 3, 'lkfþsf', 1]",veittum,5,"['sfg1fþ', 4, 'lvfþsf', 1]",False,False
+þýdd,24,"['sþghfn', 12, 'lvensf', 6, 'sþgven', 3, 'lhfnsf', 2, 'lhfosf', 1]",þýtt,65,"['ssg', 44, 'sþghen', 16, 'lhensf', 4, 'lheosf', 1]",True,False
+fjöldaframleidd,1,"['lhfnsf', 1]",fjöldaframleitt,1,"['lhensf', 1]",True,False
+umrædd,30,"['lvensf', 26, 'lhfnsf', 3, 'lhfosf', 1]",umrætt,23,"['lhensf', 13, 'lheosf', 10]",True,False
+afgreidd,5,"['sþghfn', 3, 'sþgven', 2]",afgreitt,27,"['sþghen', 20, 'ssg', 4, 'lhensf', 2, 'lheosf', 1]",True,False
+framleidd,18,"['sþghfn', 13, 'sþgven', 5]",framleitt,32,"['ssg', 17, 'sþghen', 15]",True,False
+útrædd,1,"['lhfnsf', 1]",útrætt,20,"['lhensf', 19, 'lheosf', 1]",True,False
+æddi,57,"['sfg3eþ', 47, 'sfg1eþ', 6, 'svg3eþ', 4]",ætti,1949,"['svg3eþ', 1492, 'svg1eþ', 441, 'sfg1eþ', 9, 'sfg3eþ', 6, 'svg3fþ', 1]",False,False
+lafhrædd,2,"['lvensf', 2]",lafhrætt,1,"['lhensf', 1]",True,False
+hæddi,3,"['sfg3eþ', 3]",hætti,1137,"['nkeþ', 575, 'sfg3eþ', 321, 'sfg1eþ', 178, 'svg3eþ', 32, 'svg3en', 16, 'nkfo', 8, 'svg3fn', 2, 'sfg1en', 2, 'svg1en', 1, 'sfg1fþ', 1, 'lkenvf', 1]",False,False
+lögleidd,1,"['lvensf', 1]",lögleitt,3,"['ssg', 2, 'lhensf', 1]",True,False
+hæddur,3,"['lkensf', 3]",hættur,240,"['sþgken', 222, 'nvfo', 9, 'nvfn', 7, 'lkensf', 2]",False,False
+beiddi,1,"['sfg3eþ', 1]",beitti,58,"['sfg3eþ', 52, 'sfg1eþ', 5, 'svg3eþ', 1]",False,False
+framreidd,2,"['lvensf', 2]",framreitt,3,"['sþghen', 3]",True,False
+studd,12,"['x', 12]",stutt,372,"['lhensf', 138, 'lvensf', 69, 'aa', 55, 'lheosf', 43, 'ssg', 30, 'lhfnsf', 17, 'lhfosf', 17, 'sþghen', 3]",True,False
+sniddu,3,"['nveo', 2, 'nveþ', 1]",snittu,1,"['nveo', 1]",False,False
+gersneydd,6,"['lvensf', 6]",gersneytt,1,"['lhensf', 1]",True,False
+ógreidd,5,"['lvensf', 2, 'lhfnsf', 2, 'lhfosf', 1]",ógreitt,4,"['lheosf', 2, 'lhensf', 2]",True,False
+endurgreidd,3,"['sþgven', 3]",endurgreitt,10,"['sþghen', 4, 'ssg', 4, 'sþgheo', 2]",True,False
+veiddir,4,"['sþgkfn', 3, 'sfg2eþ', 1]",veittir,1,"['sþgkfn', 1]",False,False
+styddist,2,"['svm3eþ', 2]",styttist,24,"['sfm3en', 11, 'sfm3eþ', 9, 'svm3en', 4]",True,False
+neyddu,2,"['sfg3fþ', 2]",neyttu,1,"['sfg3fþ', 1]",False,True
+þræddu,4,"['sfg3fþ', 4]",þrættu,2,"['sfg3fþ', 2]",False,True
+styddu,3,"['sbg2en', 2, 'svg3fþ', 1]",styttu,35,"['nveo', 16, 'nveþ', 10, 'sfg3fþ', 5, 'lveovf', 1, 'sbg2en', 1, 'svg3fþ', 1, 'lheþsf', 1]",False,False
+studdar,2,"['lvfnsf', 2]",stuttar,23,"['lvfosf', 12, 'lvfnsf', 11]",False,False
+græddi,9,"['sfg3eþ', 8, 'svg3eþ', 1]",grætti,1,"['sfg3eþ', 1]",False,False
+gleddi,8,"['svg3eþ', 8]",gletti,1,"['nheþ', 1]",True,False
+óravídd,1,"['nveþ', 1]",óravítt,2,"['lhensf', 2]",True,False
+tilreidd,1,"['lvensf', 1]",tilreitt,6,"['ssg', 3, 'lhensf', 2, 'lheosf', 1]",True,False
+studdur,2,"['lkensf', 2]",stuttur,47,"['lkensf', 47]",False,True
+gæddum,8,"['sfg1fþ', 7, 'svg1fþ', 1]",gættum,6,"['sfg1fþ', 6]",False,False
+gæddi,7,"['sfg3eþ', 6, 'sfg1eþ', 1]",gætti,166,"['sfg3eþ', 124, 'sfg1eþ', 14, 'svg3eþ', 10, 'nhen', 10, 'nheþ', 4, 'svg1eþ', 4]",False,False
+snædd,2,"['sþgven', 2]",snætt,5,"['ssg', 5]",True,False
+gæddir,6,"['lkfnsf', 5, 'svg2eþ', 1]",gættir,4,"['nvfo', 2, 'nvfn', 1, 'svg2eþ', 1]",False,False
+guðhrædd,1,"['lvensf', 1]",guðhrætt,1,"['lhensf', 1]",True,False
+niðurnídd,2,"['lvensf', 1, 'x', 1]",niðurnítt,1,"['lhensf', 1]",True,False
+léttklædd,6,"['lvensf', 5, 'lhfnsf', 1]",léttklætt,2,"['lhensf', 2]",True,False
+væddur,1,"['lkensf', 1]",vættur,3,"['nken', 3]",True,False
+odda,25,"['nkeþs', 16, 'nkeþ', 3, 'nvens', 2, 'nkees', 2, 'nkee', 1, 'nkfo', 1]",otta,11,"['nkeos', 5, 'nkeþs', 3, 'nvens', 2, 'nkees', 1]",False,False
+reiddu,2,"['sbg2en', 1, 'sfg3fþ', 1]",reittu,1,"['sfg3fþ', 1]",False,False
+nýfædd,8,"['lvensf', 6, 'lhfnsf', 2]",nýfætt,16,"['lheosf', 11, 'lhensf', 5]",True,False
+rökstudd,9,"['lvensf', 7, 'lhfosf', 1, 'sþghfn', 1]",rökstutt,7,"['ssg', 6, 'sþghen', 1]",True,False
+staðgreidd,1,"['lvensf', 1]",staðgreitt,3,"['ssg', 2, 'sþghen', 1]",True,False
+eydd,3,"['lhfnsf', 2, 'lvensf', 1]",eytt,99,"['ssg', 82, 'sþghen', 15, 'lhensf', 2]",True,False
+afleidd,2,"['lhfnsf', 1, 'lvensf', 1]",afleitt,8,"['lhensf', 8]",True,False
+ættleidd,3,"['lhfnsf', 2, 'lvensf', 1]",ættleitt,4,"['ssg', 2, 'lhensf', 1, 'lheosf', 1]",True,False
+sídd,3,"['nven', 2, 'nveo', 1]",sítt,69,"['lheosf', 50, 'lhensf', 19]",True,False
+íklædd,3,"['lvensf', 3]",íklætt,1,"['lhensf', 1]",True,False
+ræddust,2,"['sfm3fþ', 2]",rættust,13,"['sfm3fþ', 13]",False,True
+greddan,2,"['nveng', 2]",grettan,4,"['nveng', 3, 'lkeosf', 1]",False,False
+hýdd,6,"['lvensf', 6]",hýtt,1,"['ssg', 1]",True,False
+gredda,1,"['nven', 1]",gretta,12,"['sng', 6, 'nven', 6]",False,False
+kladda,3,"['nkeþ', 1, 'nkfo', 1, 'nkeo', 1]",klatta,1,"['nkeo', 1]",False,False
+addi,6,"['nkens', 6]",atti,3,"['sfg3eþ', 2, 'sfg1eþ', 1]",True,False
+padda,6,"['nven', 5, 'nvfe', 1]",patta,1,"['nkeþ', 1]",True,False
+matreidd,1,"['lvensf', 1]",matreitt,1,"['sþghen', 1]",True,False
+sæddi,1,"['sfg3eþ', 1]",sætti,69,"['sfg3eþ', 42, 'sfg1eþ', 13, 'nheo', 6, 'nheþ', 4, 'svg3eþ', 3, 'svg3fn', 1]",False,False
+sneidd,1,"['lvensf', 1]",sneitt,7,"['ssg', 4, 'sþghen', 3]",True,False
+tilneydd,4,"['lvensf', 4]",tilneytt,2,"['lheosf', 2]",True,False
+ædduð,1,"['svg2fþ', 1]",ættuð,63,"['svg2fþ', 34, 'lvensf', 25, 'lhfnsf', 4]",False,False
+gjörsneydd,1,"['lvensf', 1]",gjörsneytt,1,"['lhensf', 1]",True,False
+sleddan,2,"['nveng', 2]",slettan,1,"['nveng', 1]",False,True
+sleddu,1,"['nveþ', 1]",slettu,9,"['sfg3fþ', 5, 'nveþ', 4]",False,False
+skædd,1,"['lhfnsf', 1]",skætt,1,"['lheosf', 1]",True,False
+fullklædd,1,"['lvensf', 1]",fullklætt,1,"['lhensf', 1]",True,False
+bárujárnsklædd,2,"['lvensf', 2]",bárujárnsklætt,3,"['lhensf', 2, 'lheosf', 1]",True,False
+rudd,2,"['lvensf', 2]",rutt,22,"['ssg', 16, 'lhensf', 6]",True,False
+mæddir,1,"['lkfnsf', 1]",mættir,50,"['sþgkfn', 35, 'svg2eþ', 7, 'nkfn', 5, 'sfg2eþ', 3]",True,False
+gæddu,5,"['sfg3fþ', 5]",gættu,53,"['sfg3fþ', 30, 'sbg2en', 20, 'nveo', 3]",False,False
+klöddum,2,"['nkfþ', 2]",klöttum,2,"['nkfþ', 2]",False,True
+greddu,1,"['nveþ', 1]",grettu,10,"['nveþ', 5, 'nveo', 3, 'sfg3fþ', 2]",False,False
+veiddar,2,"['lvfnsf', 1, 'lvfosf', 1]",veittar,5,"['sþgvfn', 4, 'lvfosf', 1]",False,False
+meidd,1,"['lvensf', 1]",meitt,21,"['ssg', 20, 'lhensf', 1]",True,False
+breddu,1,"['nveþ', 1]",brettu,5,"['sfg3fþ', 4, 'nveo', 1]",True,False
+bredda,1,"['nkeo', 1]",bretta,8,"['sng', 8]",True,False
+neydd,1,"['lvensf', 1]",neytt,41,"['sþghen', 21, 'ssg', 19, 'lheosf', 1]",True,False
+grímuklædd,3,"['lvensf', 2, 'lhfnsf', 1]",grímuklætt,1,"['lhensf', 1]",True,False
+reidd,2,"['lhfnsf', 2]",reitt,29,"['ssg', 27, 'lhensf', 2]",True,False
+veidd,1,"['sþgven', 1]",veitt,308,"['ssg', 216, 'sþghen', 64, 'sþgven', 20, 'sþghfn', 6, 'lvensf', 1, 'lheosf', 1]",False,False
+sneydd,1,"['lvensf', 1]",sneytt,1,"['lhensf', 1]",True,False
+hugleidd,1,"['lvensf', 1]",hugleitt,21,"['ssg', 17, 'lheosf', 2, 'lhensf', 2]",True,False

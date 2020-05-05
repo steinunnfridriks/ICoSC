@@ -1,0 +1,9 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+mig,11711,"['fp1eo', 11694, 'nveo', 10, 'x', 2, 'nkeþ', 2, 'nhen', 2, 'nkeo', 1]",mér,22243,"['fp1eþ', 22199, 'fp1eþ', 42, 'as', 1, 'nvfo', 1]",True,False
+þig,3853,"['fp2eo', 3850, 'nveo', 2, 'x', 1]",þér,6450,"['fp2eþ', 6168, 'fp2fn', 269, 'nkfo', 4, 'nvfo', 3, 'nkfn', 3, 'nheþ', 1, 'fsken', 1, 'fp2en', 1]",True,False
+hann,79185,"['fpken', 69161, 'fpkeo', 10019, 'nkeng', 3, 'nkeog', 2]",honum,14466,"['fpkeþ', 14461, 'nvfþ', 5]",True,False
+hana,8308,"['fpveo', 8290, 'au', 16, 'nkeo', 1, 'nkeos', 1]",henni,9365,"['fpveþ', 9362, 'nken', 2, 'nheþ', 1]",True,False
+þau,10964,"['fphfn', 8167, 'fphfo', 1902, 'fahfo', 488, 'fahfn', 397, 'e', 6, 'nheo', 4]",þeim,9773,"['fpkfþ', 4209, 'fphfþ', 1419, 'fakeþ', 1294, 'fpvfþ', 1110, 'fakfþ', 717, 'fahfþ', 558, 'favfþ', 451, 'x', 9, 'nveo', 3, 'nkeþ', 1, 'nhen', 1, 'fpkeþ', 1]",True,False
+vil,817,"['sfg1en', 744, 'x', 46, 'nhen', 15, 'nheo', 11, 'nkens', 1]",vill,1488,"['sfg3en', 1471, 'x', 10, 'lkensf', 3, 'lvensf', 3, 'lhfnsf', 1]",False,False
+deyi,21,"['svg3en', 11, 'svg3fn', 6, 'svg1en', 4]",degi,597,"['nkeþ', 592, 'nkeþs', 5]",True,False
+allir,2544,"['fokfn', 2538, 'nkfn', 4, 'nvfo', 1, 'lkfnsf', 1]",öll,2407,"['fohfn', 1065, 'fohfo', 807, 'foven', 533, 'ta', 1, 'sfg1eþ', 1]",True,False

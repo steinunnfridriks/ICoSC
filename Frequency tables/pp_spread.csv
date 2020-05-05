@@ -1,0 +1,35 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+tapað,40,"['ssg', 30, 'sþghen', 8, 'lhensf', 1, 'lheosf', 1]",tappað,2,"['lhensf', 1, 'ssg', 1]",False,False
+tapa,98,"['sng', 91, 'sfg3fn', 3, 'nkeo', 2, 'nkeþ', 2]",tappa,25,"['sng', 12, 'nkeo', 6, 'nven', 3, 'nkeos', 2, 'nkfo', 1, 'nkeþs', 1]",False,False
+hopað,5,"['ssg', 5]",hoppað,10,"['ssg', 10]",False,True
+dropa,32,"['sng', 11, 'nkfo', 11, 'nkeo', 5, 'nkeþ', 2, 'nkfe', 1, 'nkee', 1, 'sfg3fn', 1]",droppa,1,"['sng', 1]",False,False
+tapaði,34,"['sfg3eþ', 27, 'sfg1eþ', 7]",tappaði,1,"['sfg3eþ', 1]",False,False
+tapi,16,"['nheþ', 14, 'svg3fn', 1, 'svg3en', 1]",tappi,17,"['nken', 9, 'nkens', 6, 'nkeþ', 1, 'svg3en', 1]",False,False
+hopaði,7,"['sfg3eþ', 7]",hoppaði,51,"['sfg3eþ', 45, 'sfg1eþ', 6]",False,False
+töpum,7,"['sfg1fn', 6, 'nkfþ', 1]",töppum,2,"['nkfþ', 2]",False,False
+snapa,3,"['sng', 2, 'sfg3fn', 1]",snappa,2,"['sng', 2]",False,False
+tapar,15,"['sfg3en', 11, 'sfg2en', 4]",tappar,7,"['nkfn', 5, 'sfg3en', 2]",False,False
+hop,1,"['e', 1]",hopp,9,"['nheo', 5, 'nhfo', 2, 'nhen', 1, 'nhfn', 1]",True,False
+flipa,1,"['nkeo', 1]",flippa,1,"['sng', 1]",True,False
+skopi,2,"['nheþ', 1, 'svg3en', 1]",skoppi,1,"['svg3en', 1]",False,False
+knapar,1,"['nkfn', 1]",knappar,1,"['nkfn', 1]",False,True
+glöp,2,"['nhfo', 2]",glöpp,1,"['nhfn', 1]",True,False
+hopa,9,"['sfg3fn', 4, 'sng', 4, 'sfg1en', 1]",hoppa,60,"['sng', 52, 'sfg3fn', 3, 'nhfe', 3, 'sfg1en', 1, 'sbg2en', 1]",False,False
+stapar,4,"['nkfn', 4]",stappar,9,"['sfg3en', 9]",True,False
+hopar,4,"['sfg3en', 4]",hoppar,13,"['sfg3en', 12, 'sfg2en', 1]",False,False
+hopandi,2,"['slg', 2]",hoppandi,12,"['aa', 8, 'slg', 4]",False,False
+hopuðu,2,"['sfg3fþ', 2]",hoppuðu,10,"['sfg3fþ', 10]",False,True
+klipið,3,"['ssg', 3]",klippið,5,"['sbg2fn', 5]",True,False
+dropaði,3,"['sfg3eþ', 3]",droppaði,2,"['sfg3eþ', 1, 'sfg1eþ', 1]",False,False
+lopa,3,"['nkeþ', 3]",loppa,1,"['nven', 1]",True,False
+kip,1,"['nhen', 1]",kipp,24,"['nkeo', 23, 'nkeþ', 1]",True,False
+lepur,2,"['sfg3en', 2]",leppur,4,"['nken', 4]",True,False
+kropið,5,"['ssg', 5]",kroppið,2,"['nheng', 2]",True,False
+klipi,1,"['svg3eþ', 1]",klippi,4,"['sfg1en', 2, 'svg3en', 2]",True,False
+snapað,1,"['ssg', 1]",snappað,1,"['ssg', 1]",False,True
+stop,5,"['e', 4, 'nhen', 1]",stopp,17,"['nhen', 6, 'nheo', 5, 'lhenof', 4, 'nhens', 1, 'lvensf', 1]",False,False
+klipum,1,"['nkfþ', 1]",klippum,2,"['nvfþ', 2]",True,False
+slapar,1,"['sfg3en', 1]",slappar,3,"['sfg3en', 1, 'sfg2en', 1, 'nkfn', 1]",False,False
+hopið,2,"['nheng', 2]",hoppið,1,"['sfg2fn', 1]",True,False
+krapann,1,"['nkeog', 1]",krappann,2,"['nkeog', 2]",False,True
+hrap,2,"['nheo', 1, 'nhen', 1]",hrapp,1,"['nkeo', 1]",True,False

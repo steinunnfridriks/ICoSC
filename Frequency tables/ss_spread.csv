@@ -1,0 +1,114 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+misst,231,"['ssg', 230, 'ssm', 1]",mist,1,"['nveo', 1]",True,False
+leikfimissal,1,"['nkeþ', 1]",leikfimisal,3,"['nkeþ', 2, 'nkeo', 1]",False,False
+blessi,27,"['svg3en', 27]",blesi,7,"['nkens', 7]",True,False
+kassa,111,"['nkeo', 72, 'nkeþ', 27, 'nkfo', 11, 'nkee', 1]",kasa,1,"['sng', 1]",True,False
+kyssi,17,"['sfg1en', 13, 'svg3en', 4]",kysi,17,"['svg3eþ', 15, 'svg1eþ', 2]",True,False
+ýmiss,49,"['fokee', 49]",ýmis,197,"['fohfo', 115, 'fohfn', 73, 'fokee', 6, 'foven', 3]",False,False
+lánssamir,1,"['lkfnsf', 1]",lánsamir,1,"['lkfnsf', 1]",False,True
+vissa,53,"['lveosf', 20, 'nven', 15, 'lkfosf', 8, 'sng', 4, 'sfg3fn', 2, 'lhenvf', 2, 'sfg1en', 2]",visa,4,"['sng', 3, 'nxeos', 1]",False,False
+bassinn,4,"['nkeng', 4]",basinn,1,"['nkeng', 1]",False,True
+eldhúss,12,"['nhee', 12]",eldhús,256,"['nheo', 222, 'nhen', 32, 'nhfn', 1, 'nhfo', 1]",True,False
+kastljóss,1,"['nhee', 1]",kastljós,6,"['nhens', 4, 'nhfn', 1, 'nhen', 1]",True,False
+tossa,1,"['nkeþ', 1]",tosa,11,"['sng', 11]",True,False
+hnussaði,31,"['sfg3eþ', 30, 'sfg1eþ', 1]",hnusaði,9,"['sfg3eþ', 9]",False,False
+kassettu,5,"['nveo', 5]",kasettu,3,"['nveo', 3]",False,True
+tillitssemi,30,"['nveþ', 16, 'nveo', 8, 'nven', 6]",tillitsemi,1,"['nveþ', 1]",False,False
+leikfimissalnum,3,"['nkeþg', 3]",leikfimisalnum,2,"['nkeþg', 2]",False,True
+lessa,2,"['nven', 2]",lesa,879,"['sng', 838, 'sfg3fn', 38, 'nhfe', 3]",True,False
+visst,18,"['lheosf', 11, 'lhensf', 7]",vist,75,"['nveo', 42, 'nveþ', 21, 'nven', 12]",True,False
+flass,6,"['nhee', 3, 'nheo', 2, 'nhen', 1]",flas,3,"['nhen', 2, 'nheo', 1]",False,False
+flassið,3,"['nheog', 2, 'nheng', 1]",flasið,31,"['nheog', 31]",False,False
+rissa,5,"['sng', 4, 'nven', 1]",risa,16,"['nkeþ', 6, 'nkee', 3, 'nkeo', 3, 'nhfe', 3, 'nkfo', 1]",True,False
+massa,2,"['nkeþ', 1, 'nven', 1]",masa,11,"['sng', 9, 'sfg3fn', 1, 'sfg1en', 1]",True,False
+húss,32,"['nhee', 31, 'nhee', 1]",hús,945,"['nheo', 465, 'nhen', 230, 'nhfo', 140, 'nhfn', 84, 'nhens', 24, 'nheos', 2]",True,False
+sauðskinnsskór,1,"['nkfn', 1]",sauðskinnskór,1,"['nken', 1]",True,False
+mótsstað,1,"['nkeþ', 1]",mótstað,1,"['nkeþ', 1]",False,True
+massi,3,"['nken', 3]",masi,4,"['nheþ', 3, 'svg3fn', 1]",True,False
+hróss,7,"['nhee', 7]",hrós,35,"['nheo', 28, 'nhen', 6, 'nhee', 1]",False,False
+bassa,7,"['nkeo', 4, 'nkeþ', 2, 'nkfe', 1]",basa,2,"['nkee', 1, 'nkeþ', 1]",False,False
+bassanum,1,"['nkeþg', 1]",basanum,1,"['nkeþg', 1]",False,True
+hassi,17,"['nheþ', 17]",hasi,1,"['nken', 1]",True,False
+fússi,15,"['nheþ', 15]",fúsi,138,"['nkens', 136, 'lkenvf', 2]",True,False
+kussa,1,"['nven', 1]",kusa,1,"['nkfo', 1]",True,False
+kussu,1,"['nvee', 1]",kusu,24,"['sfg3fþ', 16, 'nveo', 7, 'nveþ', 1]",True,False
+gossa,11,"['sng', 10, 'sfg3fn', 1]",gosa,30,"['nhfe', 17, 'nkeos', 6, 'nkfe', 4, 'nkee', 3]",True,False
+víss,1,"['lheesf', 1]",vís,44,"['nhee', 20, 'lvensf', 14, 'lkensf', 5, 'lhfnsf', 3, 'nxens', 1, 'lhfosf', 1]",True,False
+landsstjórn,2,"['nven', 1, 'nveþ', 1]",landstjórn,2,"['nven', 2]",False,False
+sólarljóss,1,"['nhee', 1]",sólarljós,1,"['nhen', 1]",True,False
+edikssýru,1,"['nveo', 1]",ediksýru,1,"['nveo', 1]",False,True
+ýmisskonar,3,"['lkeþsf', 1, 'lvfnsf', 1, 'lkfþsf', 1]",ýmiskonar,27,"['lvfnsf', 5, 'lvfoof', 4, 'lveoof', 3, 'lveesf', 3, 'lhfþof', 3, 'lhfnof', 2, 'lveþof', 2, 'lvfosf', 2, 'lkfþsf', 1, 'lkeoof', 1, 'lvfeof', 1]",False,False
+blessa,27,"['sng', 25, 'sfg1en', 1, 'sfg3fn', 1]",blesa,7,"['nven', 4, 'nkeþs', 1, 'nkeþ', 1, 'nkeos', 1]",True,False
+landsspítali,2,"['nken', 2]",landspítali,1,"['nkens', 1]",True,False
+háskólahúss,4,"['nhee', 4]",háskólahús,14,"['nheo', 7, 'nhen', 6, 'nhfo', 1]",True,False
+landsstjórninni,11,"['nveþg', 11]",landstjórninni,3,"['nveþg', 3]",False,True
+landssjóðs,1,"['nkee', 1]",landsjóðs,1,"['nkee', 1]",False,True
+landsspítalinn,6,"['nkeng', 6]",landspítalinn,2,"['nkengs', 2]",True,False
+landsspítalann,2,"['nkeog', 2]",landspítalann,5,"['nkeogs', 5]",True,False
+landsspítala,5,"['nkeo', 4, 'nkfo', 1]",landspítala,6,"['nkeos', 3, 'nkeþs', 2, 'nkees', 1]",True,False
+landsspítalanum,4,"['nkeþg', 4]",landspítalanum,19,"['nkeþgs', 19]",True,False
+safnahúss,2,"['nhee', 2]",safnahús,8,"['nhen', 7, 'nhfn', 1]",True,False
+rissinu,1,"['nheþg', 1]",risinu,16,"['nheþg', 16]",False,True
+landsspítalans,8,"['nkeeg', 8]",landspítalans,6,"['nkeegs', 6]",True,False
+landsstjórnina,2,"['nveog', 2]",landstjórnina,2,"['nveog', 2]",False,True
+starfssvið,4,"['nheo', 2, 'nhen', 1, 'nhfo', 1]",starfsvið,3,"['nheo', 2, 'nhen', 1]",False,False
+hafíss,8,"['nkee', 8]",hafís,21,"['nkeþ', 7, 'nken', 7, 'nkeo', 7]",True,False
+bátsskeljum,1,"['nvfþ', 1]",bátskeljum,2,"['nvfþ', 2]",False,True
+sjálfsstjórn,2,"['nveþ', 1, 'nven', 1]",sjálfstjórn,4,"['nven', 2, 'nveþ', 1, 'nveo', 1]",False,False
+ljóss,8,"['nhee', 8]",ljós,1164,"['nheo', 898, 'nhen', 165, 'nhfn', 53, 'lvensf', 14, 'lhfnsf', 12, 'lkensf', 10, 'nhfo', 10, 'nvfn', 2]",True,False
+less,1,"['e', 1]",les,198,"['sfg3en', 115, 'sfg1en', 63, 'e', 15, 'nhen', 5]",False,False
+sjálfsstjórninni,1,"['nveþg', 1]",sjálfstjórninni,2,"['nveþg', 2]",False,True
+liðssveit,1,"['nveþ', 1]",liðsveit,1,"['nveþ', 1]",False,True
+dagsljóss,1,"['nhee', 1]",dagsljós,3,"['nheo', 2, 'nhen', 1]",True,False
+prestssetrið,5,"['nheng', 5]",prestsetrið,1,"['nheng', 1]",False,True
+slyss,2,"['nhee', 2]",slys,84,"['nhen', 42, 'nhfn', 20, 'nhfo', 16, 'nheo', 6]",True,False
+leikhúss,1,"['nhee', 1]",leikhús,47,"['nheo', 27, 'nhen', 10, 'nhfo', 5, 'nhfn', 5]",True,False
+dagssiglingu,1,"['nveo', 1]",dagsiglingu,1,"['nveo', 1]",False,True
+klassi,1,"['nken', 1]",klasi,1,"['nken', 1]",False,True
+vatnssósa,3,"['lkeþvf', 2, 'lkfþvf', 1]",vatnsósa,11,"['lkeovf', 2, 'lkfevf', 2, 'lvfnsf', 1, 'lheþvf', 1, 'lkeþvf', 1, 'lvfþvf', 1, 'lvensf', 1, 'lkfosf', 1, 'lkfnvf', 1]",False,False
+íss,4,"['nkee', 4]",ís,133,"['nkeo', 66, 'nkeþ', 38, 'nken', 27, 'nhee', 2]",True,False
+goss,5,"['nhee', 5]",gos,139,"['nheo', 48, 'nhfo', 28, 'nhfn', 28, 'nhen', 27, 'nkeþ', 6, 'e', 2]",True,False
+jarðgass,2,"['nhee', 2]",jarðgas,11,"['nheo', 6, 'nhen', 5]",True,False
+mýragass,1,"['nhee', 1]",mýragas,1,"['nhen', 1]",True,False
+jökulíss,1,"['nkee', 1]",jökulís,3,"['nkeo', 2, 'nken', 1]",True,False
+gegndarlauss,1,"['lkeesf', 1]",gegndarlaus,2,"['lhfosf', 1, 'lvensf', 1]",True,False
+brennisteinskíss,1,"['nkee', 1]",brennisteinskís,18,"['nken', 11, 'nkeþ', 4, 'nkeo', 3]",True,False
+íbúðarhúss,3,"['nhee', 3]",íbúðarhús,39,"['nheo', 13, 'nhfn', 12, 'nhen', 8, 'nhfo', 6]",True,False
+stöðvarhúss,3,"['nhee', 3]",stöðvarhús,2,"['nheo', 1, 'nhen', 1]",True,False
+námsskrá,2,"['nveo', 1, 'nveþ', 1]",námskrá,6,"['nven', 3, 'nveþ', 2, 'nveo', 1]",False,False
+hnussar,11,"['sfg3en', 11]",hnusar,7,"['sfg3en', 7]",False,True
+kossinn,13,"['nkeng', 10, 'nkeog', 3]",kosinn,27,"['sþgken', 25, 'lkensf', 1, 'lkeosf', 1]",True,False
+fjóss,1,"['nhee', 1]",fjós,35,"['nheo', 17, 'nhen', 13, 'nhfn', 2, 'nveþ', 1, 'nven', 1, 'nveo', 1]",True,False
+liðsstyrk,2,"['nkeo', 2]",liðstyrk,1,"['nkeo', 1]",False,True
+endalauss,1,"['lkeesf', 1]",endalaus,45,"['lvensf', 33, 'lhfnsf', 5, 'lkensf', 4, 'lhfosf', 3]",True,False
+ránsskap,6,"['nkeþ', 4, 'nhens', 1, 'nkeo', 1]",ránskap,2,"['nkeþ', 1, 'nkeo', 1]",False,False
+hrossið,21,"['nheog', 12, 'nheng', 9]",hrosið,1,"['ssg', 1]",True,False
+tossar,1,"['nkfn', 1]",tosar,2,"['sfg3en', 2]",True,False
+hnussa,5,"['sfg1en', 3, 'sng', 2]",hnusa,4,"['sng', 4]",False,False
+pussa,1,"['sng', 1]",pusa,1,"['nven', 1]",True,False
+gistihúss,1,"['nhee', 1]",gistihús,9,"['nheo', 6, 'nhfn', 1, 'nhen', 1, 'nhfo', 1]",True,False
+klössum,1,"['nkfþ', 1]",klösum,4,"['nkfþ', 4]",False,True
+hnussandi,1,"['slg', 1]",hnusandi,3,"['lvfevf', 1, 'lkfovf', 1, 'slg', 1]",False,False
+stórslyss,1,"['nhee', 1]",stórslys,3,"['nhfn', 1, 'nhen', 1, 'nhfo', 1]",True,False
+saklauss,1,"['lheesf', 1]",saklaus,47,"['lkensf', 30, 'lvensf', 11, 'lhfnsf', 5, 'lhfosf', 1]",True,False
+bussa,1,"['nkeo', 1]",busa,1,"['nkeo', 1]",False,True
+þinghúss,2,"['nhee', 2]",þinghús,1,"['nheo', 1]",True,False
+prestssetrinu,2,"['nheþg', 2]",prestsetrinu,2,"['nheþg', 2]",False,True
+landsstjórnarinnar,2,"['nveeg', 2]",landstjórnarinnar,2,"['nveeg', 2]",False,True
+landsstjóri,1,"['nken', 1]",landstjóri,1,"['nken', 1]",False,True
+málssókn,2,"['nveo', 1, 'nven', 1]",málsókn,21,"['nveo', 13, 'nveþ', 4, 'nven', 2, 'nveþs', 1, 'nvens', 1]",False,False
+riss,2,"['nhen', 2]",ris,15,"['nhen', 7, 'nheo', 3, 'nhfn', 3, 'e', 2]",False,False
+ess,2,"['nhee', 2]",es,26,"['e', 15, 'as', 4, 'nhen', 3, 'nveos', 2, 'nheþ', 1, 'nhens', 1]",True,False
+rassar,2,"['nkfn', 2]",rasar,1,"['sfg2en', 1]",True,False
+lagnaðaríss,1,"['nkee', 1]",lagnaðarís,2,"['nkeo', 1, 'nken', 1]",True,False
+vaskahúss,1,"['nhee', 1]",vaskahús,8,"['nheo', 5, 'nhen', 2, 'nhfn', 1]",True,False
+pússluspilinu,1,"['nheþg', 1]",púsluspilinu,2,"['nheþg', 2]",False,True
+veitingahúss,1,"['nhee', 1]",veitingahús,20,"['nheo', 15, 'nhfn', 4, 'nhfo', 1]",True,False
+pósthúss,2,"['nhee', 2]",pósthús,10,"['nheo', 6, 'nhen', 3, 'nhfn', 1]",True,False
+lossa,4,"['sng', 4]",losa,180,"['sng', 166, 'sfg3fn', 6, 'nkeþ', 5, 'sfg1en', 1, 'nkeo', 1, 'nhfe', 1]",False,False
+lossað,1,"['ssg', 1]",losað,34,"['ssg', 33, 'lhensf', 1]",False,False
+námsskránni,1,"['nveþg', 1]",námskránni,2,"['nveþg', 2]",False,True
+sjúkrahúss,3,"['nhee', 2, 'nhee', 1]",sjúkrahús,54,"['nheo', 35, 'nhen', 10, 'nhfo', 6, 'nhfn', 3]",True,False
+táragass,1,"['nhee', 1]",táragas,2,"['nheo', 1, 'nhen', 1]",True,False
+gassi,2,"['nken', 1, 'nkens', 1]",gasi,19,"['nheþ', 19]",True,False
+klassa,1,"['nkeþ', 1]",klasa,1,"['nkfo', 1]",True,False

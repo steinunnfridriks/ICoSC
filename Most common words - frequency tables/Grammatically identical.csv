@@ -1,7 +1,0 @@
-﻿Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical,Min freq
-skrýtið,273,"['lhensf', 270, 'lheosf', 3]",skrítið,82,"['lhensf', 79, 'lheosf', 3]",FALSE,TRUE,82
-byði,35,"['svg3eþ', 31, 'svg1eþ', 4]",biði,81,"['svg3eþ', 74, 'svg1eþ', 7]",FALSE,TRUE,35
-sýgur,32,"['sfg3en', 32]",sígur,43,"['sfg3en', 43]",FALSE,TRUE,32
-vinnan,52,"['nveng', 52]",vinan,23,"['nveng', 23]",FALSE,TRUE,23
-munnur,20,"['nken', 20]",munur,137,"['nken', 137]",FALSE,TRUE,20
-kynnin,19,"['nhfng', 13, 'nhfog', 6]",kynin,10,"['nhfng', 7, 'nhfog', 3]",FALSE,TRUE,10

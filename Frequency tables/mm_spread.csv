@@ -1,0 +1,39 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+kominn,2182,"['sþgken', 2172, 'lkensf', 7, 'x', 1, 'lkeosf', 1, 'sþgkeo', 1]",komminn,1,"['nkeng', 1]",True,False
+koma,5357,"['sng', 4240, 'sfg3fn', 1065, 'nven', 47, 'nvfe', 5]",komma,19,"['nkfo', 7, 'nven', 6, 'nkee', 2, 'nkfe', 2, 'nkeo', 1, 'nkeþ', 1]",False,False
+komu,1597,"['sfg3fþ', 1501, 'nveo', 63, 'nveþ', 25, 'nvee', 7, 'x', 1]",kommu,4,"['nveþ', 2, 'nvees', 1, 'nveo', 1]",False,False
+sama,3190,"['fbhen', 946, 'fbheþ', 593, 'fbheo', 494, 'fbkeþ', 426, 'fbkeo', 418, 'fbven', 192, 'fbhee', 47, 'fbkee', 21, 'nkeþ', 19, 'sng', 18, 'nkfes', 10, 'nkee', 4, 'nkfo', 1, 'nkeo', 1]",samma,1,"['nkeos', 1]",True,False
+komum,400,"['sfg1fþ', 301, 'sfg1fn', 91, 'nvfþ', 5, 'svg1fn', 2, 'nhfþ', 1]",kommum,1,"['nkfþ', 1]",True,False
+nam,155,"['sfg3eþ', 142, 'sfg1eþ', 8, 'nhen', 4, 'nheo', 1]",namm,7,"['nhen', 4, 'nheo', 3]",False,False
+sumum,250,"['fokfþ', 144, 'fohfþ', 72, 'fovfþ', 31, 'fpkfþ', 3]",summum,1,"['nvfþ', 1]",True,False
+frami,5,"['nken', 5]",frammi,484,"['aa', 484]",True,False
+sami,194,"['fbken', 192, 'nken', 2]",sammi,2,"['nkens', 2]",True,False
+komi,423,"['svg3en', 337, 'svg3fn', 60, 'svg1en', 26]",kommi,11,"['nken', 11]",True,False
+humar,18,"['nken', 9, 'nkeo', 8, 'nkeþ', 1]",hummar,4,"['sfg3en', 4]",True,False
+sumu,45,"['foheþ', 45]",summu,4,"['nveþ', 2, 'nveo', 2]",True,False
+suma,54,"['fokfo', 48, 'x', 4, 'sng', 1, 'sfg3fn', 1]",summa,6,"['nven', 6]",True,False
+stemning,5,"['nven', 5]",stemmning,13,"['nven', 13]",False,True
+stemningin,12,"['nveng', 12]",stemmningin,8,"['nveng', 8]",False,True
+stemningu,5,"['nveþ', 5]",stemmningu,9,"['nveo', 6, 'nveþ', 3]",False,False
+stemninguna,4,"['nveog', 4]",stemmninguna,12,"['nveog', 12]",False,True
+hatramlega,1,"['lheovf', 1]",hatrammlega,1,"['lkfosf', 1]",True,False
+em,11,"['as', 6, 'x', 4, 'c', 1]",emm,2,"['nheþ', 1, 'nhen', 1]",True,False
+gröm,4,"['lvensf', 4]",grömm,24,"['nhfo', 13, 'nhfn', 11]",True,False
+fim,3,"['as', 1, 'lvensf', 1, 'x', 1]",fimm,1051,"['tfkfn', 168, 'tfhfe', 125, 'ta', 94, 'tfkfþ', 86, 'tfkfo', 79, 'tfhfþ', 72, 'tfhfo', 66, 'tfvfn', 62, 'tfhfn', 61, 'tfvfo', 56, 'tfkfe', 52, 'to', 45, 'tfvfe', 41, 'tfvfþ', 23, 'nhfo', 7, 'nheo', 7, 'nhfn', 4, 'nhen', 2, 'x', 1]",False,False
+framámenn,3,"['nkfn', 2, 'nkfo', 1]",frammámenn,1,"['nkfo', 1]",False,False
+guma,4,"['sfg3fn', 1, 'nkee', 1, 'nkeo', 1, 'nkfe', 1]",gumma,40,"['nkees', 16, 'nkeþs', 11, 'nkeos', 11, 'nven', 1, 'nkeþ', 1]",True,False
+skemur,13,"['aam', 13]",skemmur,3,"['nvfo', 2, 'nvfn', 1]",True,False
+gumi,1,"['nheþ', 1]",gummi,59,"['nkens', 59]",True,False
+framámaður,5,"['nken', 5]",frammámaður,2,"['nken', 2]",False,True
+luma,4,"['sng', 3, 'sfg1en', 1]",lumma,1,"['nvfe', 1]",True,False
+skema,2,"['nhfe', 2]",skemma,30,"['sng', 27, 'nven', 3]",True,False
+lama,6,"['sng', 4, 'lhfevf', 1, 'lvfþvf', 1]",lamma,1,"['sng', 1]",False,False
+stemningunni,3,"['nveþg', 3]",stemmningunni,5,"['nveþg', 5]",False,True
+sima,2,"['nkfe', 2]",simma,7,"['nkeos', 5, 'nkees', 1, 'nkeþs', 1]",True,False
+ama,13,"['nkee', 10, 'nkeo', 2, 'sfg3fn', 1]",amma,1140,"['nven', 1137, 'sng', 2, 'nvfe', 1]",True,False
+nami,1,"['nheþ', 1]",nammi,30,"['nheo', 13, 'nhen', 13, 'nheþ', 4]",False,False
+rima,2,"['nkee', 1, 'nkfes', 1]",rimma,1,"['nven', 1]",True,False
+ema,1,"['nhfe', 1]",emma,1,"['nvens', 1]",True,False
+tyggigúmí,1,"['x', 1]",tyggigúmmí,3,"['nheo', 3]",True,False
+hatrama,1,"['lveosf', 1]",hatramma,1,"['lveosf', 1]",False,True
+liminu,1,"['nheþg', 1]",limminu,5,"['nheþg', 5]",False,True
