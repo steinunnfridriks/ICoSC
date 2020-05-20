@@ -72,13 +72,15 @@ def remove_postag(sent_list_1, sent_list_2):
 #    dense_vector= matutils.corpus2dense(sparse_vector,num_terms=len(dictionary.token2id))
 #    return dense_vector.T
  
-def generate_bow(vocab, sent_list): # Extracts bag of word features by hand - the Gensim way is used in the other BOW models
+def generate_bow(vocab, sent_list, target_word_1, target_word_2):
     unique_vocab = {}
     for i in vocab:
-        if i in unique_vocab:
-            unique_vocab[i] += 1
-        else:
-            unique_vocab[i] = 1
+        if i != target_word_1:
+            if i != target_word_2:
+                if i in unique_vocab:
+                    unique_vocab[i] += 1
+                else:
+                    unique_vocab[i] = 1
 
     vocab_list = []
     for key, value in unique_vocab.items():
@@ -118,7 +120,7 @@ def automate(wordfile): # Makes it possible to calculate all word pairs of a cer
             sent_list_1, target1 = sent_list(sentences, target_word_1, 0)
             sent_list_2, target2 = sent_list(sentences, target_word_2, 1)
             vocab, total_sent_list = remove_postag(sent_list_1, sent_list_2)
-            data, vocab_list = generate_bow(vocab, total_sent_list)
+            data, vocab_list = generate_bow(vocab, total_sent_list, target_word_1, target_word_2)
             #data_matrix_2 = gensimthings(sent_list_2)
             target = np.concatenate((target1,target2), axis=0)
 

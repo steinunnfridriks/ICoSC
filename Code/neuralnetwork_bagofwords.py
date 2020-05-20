@@ -47,18 +47,20 @@ def sent_list(sent, target_word, n):
                 target_vector.append(n)
     return sent_list, target_vector
 
-def remove_postag(sent_list_1, sent_list_2):
+def remove_postag(sent_list_1, sent_list_2, target_word_1, target_word_2):
     """Remove the pos tag"""
     update_sent_list = []
     for i in sent_list_1:
         sent = []
         for x in i:
-            sent.append(x[0])
+            if x[0] != target_word_1:
+                sent.append(x[0])
         update_sent_list.append(sent)
     for i in sent_list_2:
         sent = []
         for x in i:
-            sent.append(x[0])
+            if x[0] != target_word_2:
+                sent.append(x[0])
         update_sent_list.append(sent)
     return update_sent_list
 
@@ -91,7 +93,7 @@ def automate(wordfile):
             sentences = tuple_sent(sent)
             sent_list_1, target1 = sent_list(sentences, target_word_1, 0)
             sent_list_2, target2 = sent_list(sentences, target_word_2, 1)
-            total_sent_list = remove_postag(sent_list_1, sent_list_2)
+            total_sent_list = remove_postag(sent_list_1, sent_list_2, target_word_1, target_word_2)
             data = gensimthings(total_sent_list)
             target = np.concatenate((target1,target2), axis=0)
 
