@@ -1,0 +1,20 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+pabbi,2749,"['nken', 2746, 'nheþ', 3]",pappi,2,"['nken', 2]",False,False
+slabb,2,"['nhen', 2]",slapp,65,"['sfg3eþ', 48, 'sfg1eþ', 12, 'nheo', 3, 'nhen', 2]",False,False
+slabbið,1,"['nheog', 1]",slappið,1,"['sfg2fn', 1]",True,False
+pabba,1446,"['nkeþ', 653, 'nkeo', 420, 'nkee', 367, 'nkfo', 6]",pappa,14,"['nkeþ', 12, 'nkeþ', 2]",False,False
+labba,89,"['sng', 75, 'sfg1en', 6, 'nkeo', 3, 'nvens', 2, 'nkeþ', 2, 'sfg3fn', 1]",lappa,8,"['sng', 5, 'nkeo', 1, 'nkfo', 1, 'nvfe', 1]",False,False
+pabbinn,36,"['nkeng', 36]",pappinn,1,"['nkeng', 1]",False,True
+labbar,15,"['sfg3en', 14, 'nkfn', 1]",lappar,1,"['sfg3en', 1]",False,False
+labbaði,46,"['sfg3eþ', 31, 'sfg1eþ', 14, 'svg3eþ', 1]",lappaði,1,"['sfg1eþ', 1]",False,False
+labbi,5,"['nheþ', 4, 'nken', 1]",lappi,1,"['nken', 1]",False,False
+labbað,13,"['ssg', 13]",lappað,3,"['lhensf', 2, 'ssg', 1]",False,False
+rabbi,3,"['nheþ', 2, 'svg3en', 1]",rappi,1,"['nheþ', 1]",False,False
+klabbið,13,"['nheog', 11, 'nheng', 2]",klappið,4,"['nheng', 2, 'sbg2fn', 1, 'nheog', 1]",False,False
+flibba,5,"['nkeþ', 2, 'nkeo', 2, 'nkfo', 1]",flippa,1,"['sng', 1]",True,False
+pabbann,6,"['nkeog', 6]",pappann,5,"['nkeog', 5]",False,True
+stabbi,2,"['nken', 2]",stappi,11,"['nheþ', 10, 'svg3en', 1]",True,False
+krabbar,1,"['nkfn', 1]",krappar,2,"['lvfosf', 1, 'nkfn', 1]",False,False
+vibba,1,"['nkee', 1]",vippa,5,"['sng', 4, 'sfg3fn', 1]",True,False
+löbbum,1,"['nkfþ', 1]",löppum,1,"['nvfþ', 1]",True,False
+kröbbum,1,"['nkfþ', 1]",kröppum,3,"['lkeþsf', 1, 'lkfþsf', 1, 'lvfþsf', 1]",True,False

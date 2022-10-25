@@ -1,0 +1,25 @@
+Word form,Total count,POS tags and their frequency,Word form,Total count,POS tags and their frequency,Grammatically disjoint,Grammatically identical
+hvað,11582,"['fshen', 7641, 'fsheo', 3715, 'fohen', 133, 'foheo', 92, 'x', 1]",kvað,238,"['sfg3eþ', 222, 'sfg1eþ', 7, 'sfg1fþ', 5, 'sfg2eþ', 3, 'sfg3fþ', 1]",True,False
+hvaða,1368,"['fsheþ', 196, 'fshen', 168, 'fsken', 164, 'fshfo', 122, 'fsheo', 108, 'fsven', 97, 'fshfn', 87, 'fskeo', 72, 'fsveo', 60, 'fsvfo', 59, 'fsvfn', 53, 'fskeþ', 53, 'fsveþ', 36, 'fskfn', 30, 'fshfþ', 25, 'fskee', 15, 'nhfe', 14, 'fsvfþ', 3, 'fsvfe', 2, 'fskfo', 2, 'fshfe', 1, 'fskfþ', 1]",kvaða,2,"['nvfe', 1, 'nven', 1]",True,False
+hvalinn,13,"['nkeog', 13]",kvalinn,5,"['lkensf', 5]",True,False
+hvalir,4,"['nkfn', 4]",kvalir,9,"['nvfo', 7, 'nvfn', 2]",True,False
+hvatt,42,"['ssg', 33, 'sþghen', 8, 'lheosf', 1]",kvatt,55,"['ssg', 45, 'sþghen', 10]",False,False
+hváðu,1,"['sfg3fþ', 1]",kváðu,35,"['sfg3fþ', 35]",False,True
+hváðum,1,"['sfg1fþ', 1]",kváðum,1,"['sfg1fþ', 1]",False,True
+hvein,28,"['sfg3eþ', 24, 'sfg1eþ', 3, 'sfg2eþ', 1]",kvein,11,"['nheo', 6, 'nhen', 3, 'nhfn', 2]",True,False
+hvelja,1,"['nven', 1]",kvelja,15,"['sng', 15]",True,False
+hver,2720,"['fsken', 1300, 'foken', 953, 'foven', 273, 'fshfn', 45, 'fsven', 38, 'fohfo', 35, 'nhfo', 18, 'nhfn', 12, 'nkeþ', 12, 'fohfn', 10, 'nkeo', 8, 'nken', 7, 'x', 3, 'nhen', 3, 'nheo', 3]",kver,13,"['nheo', 10, 'nhfo', 2, 'nhfn', 1]",False,False
+hveri,27,"['nkfo', 20, 'svg3en', 3, 'nheþ', 2, 'svg3fn', 1, 'nkfos', 1]",kveri,5,"['nheþ', 5]",False,False
+hvers,1402,"['fshee', 1024, 'fokee', 261, 'fohee', 91, 'nhfn', 9, 'fskee', 6, 'nhen', 5, 'nkee', 3, 'nheo', 1, 'nhfo', 1, 'nhee', 1]",kvers,2,"['nhee', 2]",False,False
+hviða,1,"['nvfe', 1]",kviða,1,"['sng', 1]",True,False
+hviðanna,1,"['nvfeg', 1]",kviðanna,1,"['nvfeg', 1]",False,True
+hviðum,6,"['nvfþ', 6]",kviðum,3,"['nkfþ', 2, 'sfg1fþ', 1]",True,False
+hviðurnar,3,"['nvfog', 2, 'nvfng', 1]",kviðurnar,1,"['nvfog', 1]",False,False
+hvika,4,"['sng', 4]",kvika,48,"['nven', 42, 'sng', 6]",False,False
+hvikaði,4,"['sfg3eþ', 4]",kvikaði,1,"['sfg3eþ', 1]",False,True
+hví,46,"['aa', 21, 'au', 17, 'nveo', 3, 'nhen', 3, 'nhfn', 2]",kví,6,"['nveþ', 3, 'nvens', 2, 'nveþs', 1]",True,False
+hvísl,24,"['nhen', 17, 'nheo', 6, 'nhfn', 1]",kvísl,7,"['nveþ', 3, 'nven', 2, 'nveo', 1, 'nvens', 1]",True,False
+hvíslaðist,1,"['svm3eþ', 1]",kvíslaðist,2,"['sfm3eþ', 2]",True,False
+hvíslar,98,"['sfg3en', 98]",kvíslar,3,"['nvfn', 2, 'nvee', 1]",True,False
+hvíslast,13,"['sfm3en', 6, 'snm', 4, 'sfm3fn', 3]",kvíslast,5,"['sfm3en', 5]",False,False
+hvölum,1,"['nkfþ', 1]",kvölum,11,"['nvfþ', 11]",True,False
